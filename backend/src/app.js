@@ -12,7 +12,7 @@ app.use(helmet({
   contentSecurityPolicy: {
     directives: {
       defaultSrc: ["'self'"],
-      fontSrc: ["'self'", 'https://ai-code-reviewer-5jcc.onrender.com'],
+      fontSrc: ["'self'", 'https://ai-code-reviewer-bzz4.onrender.com/ai/get-review'],
       styleSrc: ["'self'", "'unsafe-inline'"],
       scriptSrc: ["'self'", "'unsafe-inline'"],
       connectSrc: ["'self'"],
